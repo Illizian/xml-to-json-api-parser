@@ -1,0 +1,4 @@
+{
+	"endpoint" : "http://thetvdb.com/",
+	"port" : 8080
+}
